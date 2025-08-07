@@ -18,7 +18,7 @@ This project analyzes Apache server access logs to detect suspicious IP activity
 
 ## 📊 Dashboard Insights
 
-![Dashboard Preview]()
+![Dashboard Preview](Screenshots/Apache_log_ss.png)
 
 ### Key Visuals:
 - Top suspicious IPs by failed login attempts
