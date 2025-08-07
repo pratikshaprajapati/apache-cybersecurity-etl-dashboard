@@ -12,7 +12,7 @@ This project analyzes Apache server access logs to detect suspicious IP activity
 - `notebooks/` - Jupyter notebook for ETL
 -  `outputs/` - Cleaned and aggregated data
 -  `dashboard/` - `.pbix` Power BI file
--  'screenshots/` - Dashboard previews
+-  'Screenshots/` - Dashboard previews
 
 ---
 
