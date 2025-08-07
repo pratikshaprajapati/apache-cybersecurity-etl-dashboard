@@ -28,5 +28,17 @@ This project analyzes Apache server access logs to detect suspicious IP activity
 
 ---
 
-## 
+## ⚙️Technologies Used
+
+- Python (pandas, regex)
+- Power BI
+- Regex parsing for Apache logs
+
+---
+
+## 📌 Learnings
+
+- Built ETL pipeline from raw log files
+- Identified security threats usign log data
+- built business-ready dashboard for SOC teams
 
