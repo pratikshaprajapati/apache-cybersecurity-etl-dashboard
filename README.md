@@ -18,6 +18,15 @@ This project analyzes Apache server access logs to detect suspicious IP activity
 
 ## 📊 Dashboard Insights
 
-![Dashboard Preview](<img width="592" height="332" alt="image" src="https://github.com/user-attachments/assets/f3e31f60-c096-4b34-8e4f-e720c0bb7ef1" />
-)
+![Dashboard Preview]()
+
+### Key Visuals:
+- Top suspicious IPs by failed login attempts
+- Request volume by hour
+- Heatmap of access activity by day/hour
+- Filterable table for failed login details
+
+---
+
+## 
 
